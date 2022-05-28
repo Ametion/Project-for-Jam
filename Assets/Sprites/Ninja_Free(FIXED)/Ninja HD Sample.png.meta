@@ -213,6 +213,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1624,6 +1625,70 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Ninja HD Sample_7: 2339952390783088122
+      Ninja HD Sample_23: -7342911105704933580
+      Ninja HD Sample_57: 4972281072341723757
+      Ninja HD Sample_73: 5518391562727690648
+      Ninja HD Sample_75: 376664119604872548
+      Ninja HD Sample_19: 747503929249668784
+      Ninja HD Sample_5: 2554000589069252790
+      Ninja HD Sample_8: -7944491706542731709
+      Ninja HD Sample_25: -911789498706092492
+      Ninja HD Sample_33: -5664849647727719290
+      Ninja HD Sample_37: -5204728551363568437
+      Ninja HD Sample_29: -6467056789642067251
+      Ninja HD Sample_32: 1750332115126383991
+      Ninja HD Sample_31: 4595330481704771331
+      Ninja HD Sample_13: 6482783903667117260
+      Ninja HD Sample_43: 2027790118003378450
+      Ninja HD Sample_61: -8437903548174698465
+      Ninja HD Sample_44: 1074641559080273409
+      Ninja HD Sample_15: 8816959742433338218
+      Ninja HD Sample_9: 4852201797830748930
+      Ninja HD Sample_63: 9129865140827764237
+      Ninja HD Sample_47: -9142341275536780210
+      Ninja HD Sample_30: 5905100603859505697
+      Ninja HD Sample_66: 4139930038478316081
+      Ninja HD Sample_55: -1058047399486704747
+      Ninja HD Sample_11: -2059551321097818900
+      Ninja HD Sample_17: 5997806621299808243
+      Ninja HD Sample_74: -4185946905404118280
+      Ninja HD Sample_21: 9160030891909313233
+      Ninja HD Sample_26: -2952652176471638164
+      Ninja HD Sample_65: 2876630399463349274
+      Ninja HD Sample_35: 7293807580624661486
+      Ninja HD Sample_22: -7771187701686116475
+      Ninja HD Sample_4: 4133306434058739523
+      Ninja HD Sample_54: 4442774298797450894
+      Ninja HD Sample_72: 6311606955915518940
+      Ninja HD Sample_70: 6810898515176714481
+      Ninja HD Sample_46: -1963323152260864621
+      Ninja HD Sample_38: -7815492765072598178
+      Ninja HD Sample_68: 3838277086472756233
+      Ninja HD Sample_76: 4947944953183258444
+      Ninja HD Sample_36: -5932717690297732560
+      Ninja HD Sample_2: 2376868321322474371
+      Ninja HD Sample_6: -6615019071772903944
+      Ninja HD Sample_28: 8004200632497987105
+      Ninja HD Sample_24: -5923033302747569788
+      Ninja HD Sample_12: -3445587718032178923
+      Ninja HD Sample_18: -8607364107084202082
+      Ninja HD Sample_16: 1320860501218374293
+      Ninja HD Sample_10: -1579779216029517168
+      Ninja HD Sample_34: 107294475747657176
+      Ninja HD Sample_39: 6790845498288118158
+      Ninja HD Sample_0: -5237827435021359831
+      Ninja HD Sample_40: 7788509132006433728
+      Ninja HD Sample_20: 5095482400606297068
+      Ninja HD Sample_14: 4635152883031706945
+      Ninja HD Sample_71: 5415369364802449788
+      Ninja HD Sample_3: 7668878137750366122
+      Ninja HD Sample_42: -7205974853299852379
+      Ninja HD Sample_1: -3097404717907867290
+      Ninja HD Sample_41: 1077423117615725985
+      Ninja HD Sample_27: 3710590583063822677
+      Ninja HD Sample_48: -8177482467368780721
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

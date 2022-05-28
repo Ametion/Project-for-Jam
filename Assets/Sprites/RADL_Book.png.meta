@@ -51,6 +51,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -328,6 +329,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      RADL_Book_8: -2317030223166109932
+      RADL_Book_0: -7626837256301867416
+      RADL_Book_6: 4038965095955500794
+      RADL_Book_3: -1645888071165014627
+      RADL_Book_4: -1704245020925715421
+      RADL_Book_5: -4860146629974044524
+      RADL_Book_1: -7022570758389391388
+      RADL_Book_7: -6729216507229198130
+      RADL_Book_2: -3958841172115725188
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
